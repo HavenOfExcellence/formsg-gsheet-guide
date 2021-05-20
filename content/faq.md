@@ -22,3 +22,7 @@ I can't help you either, their ([guide](https://guide.form.gov.sg/AdvancedGuide.
 ## I have a problem with my FormSG
 
 Ask FormSG support, not me
+
+## I can't get things to work properly
+
+You can try contacting [francisyzy](https://t.me/francisyzy) if you are stilling facing difficulties.

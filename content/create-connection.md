@@ -5,12 +5,13 @@ description: Create a connection from FormSG to Google Sheet
 
 ## Step 0: Things you need
 
-([FormSG Account](https://form.gov.sg/#!/signin))
-([Google Account](https://accounts.google.com/SignUp))
+[FormSG Account](https://form.gov.sg/#!/signin)
+
+[Google Account](https://accounts.google.com/SignUp)
 
 ## Step 1: Go to the website
 
-([Website](https://formsg-gsheet.herokuapp.com/))
+[Website](https://formsg-gsheet.herokuapp.com/)
 ![](/formsg-gsheet-guide/screenshots/connection-1-go-to-website.png)
 
 ## Step 2: Login into the app
@@ -84,9 +85,10 @@ Once the form is activated, go to your form
 ![](/formsg-gsheet-guide/screenshots/connection-16-access-formsg.png)
 
 ## Step 8: Test Connection (FormSG Part)
+
 And make a test to ensure the link between FormSG and Google Sheet works
 ![](/formsg-gsheet-guide/screenshots/connection-17-production-test.png)
 
 ## Debuging
 
-You can try contacting ([francisyzy](https://t.me/francisyzy)) if you are stilling facing difficulties.
+You can try contacting [francisyzy](https://t.me/francisyzy) if you are stilling facing difficulties.

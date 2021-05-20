@@ -5,11 +5,11 @@ description: Create a connection to link FormSG to a Telegram Group
 
 ## Step 0: Things you need
 
-([Telegram Group](https://telegram.org/tour/groups)) Preferably a group with message history ([supergroup](https://telegram.org/blog/supergroups)) so new members can see whats going on? but it will work with normal group
+[Telegram Group](https://telegram.org/tour/groups): Preferably a group with message history ([supergroup](https://telegram.org/blog/supergroups)) so new members can see whats going on? but it will work with normal group
 
 ## Step 1: Go to the website
 
-([Website](https://formsg-gsheet.herokuapp.com/))
+[Website](https://formsg-gsheet.herokuapp.com/)
 ![](/formsg-gsheet-guide/screenshots/connection-1-go-to-website.png)
 
 ## Step 2: Login into the app
@@ -46,4 +46,4 @@ Go to your Form and test the connection to see if it works
 
 ## Debuging
 
-You can try contacting ([francisyzy](https://t.me/francisyzy)) if you are stilling facing difficulties.
+You can try contacting [francisyzy](https://t.me/francisyzy) if you are stilling facing difficulties.
