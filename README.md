@@ -1,6 +1,6 @@
 # FormSG-GoogleSheet Guide
 
-This is a guide page/app for the main application [FormSG-GoogleSheet](https://sub.mainProjectUrl/)
+This is a guide page/app for the main application [FormSG-GoogleSheet](https://formsg-gsheet.herokuapp.com/)
 
 It is separated out from the main project to provide easier updating of the guide page for faster build times, easier to update etc.
 
@@ -11,9 +11,10 @@ In order to edit the guide pages, you will need to know markdown. Learn markdown
 ## Important files to edit the content
 
 - [Content pages](content/index.md)
-  - [Guide One](content/guide-one.md)
-  - [Guide Two](content/guide-two.md) Protected using simple auth
-  - etc.
+  - [Create Connection](content/create-connection.md)
+  - [Create Telegram Connection](content/create-telegram-connection.md)
+  - [FAQ](content/faq.md)
+  - [Sample](content/sample.md) Protected using simple auth
 - [Screenshots](public/screenshots)
 
 If new pages are to be inserted, [`meta.ts`](content/meta.ts) also needs to have the page _slug_ inside for it to build the new page inserted. The page slug is the file name. For example, the page slug of the **Guide Page One** page is `guide-one`.
@@ -43,7 +44,7 @@ The page will automatically build after the file is saved.
 
 You can look at the build logs from the [Actions Tab](https://github.com/HavenOfExcellence/formsg-gsheet-guide/actions)
 
-Once a green tick is shown, the site will be available at either at [FormSG-GoogleSheet/formsg-gsheet-guide](formsg-gsheet.mainProjectUrl/formsg-gsheet-guide/) or [Repository Docs Page](https://havenofexcellence.github.io/formsg-gsheet-guide/) (Both serve identical content)
+Once a green tick is shown, the site will be available at either at [Repository Docs Page](https://havenofexcellence.github.io/formsg-gsheet-guide/)
 
 ## Advanced development
 

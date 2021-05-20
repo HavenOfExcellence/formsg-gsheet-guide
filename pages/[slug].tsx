@@ -15,7 +15,7 @@ const Guide = ({ title, unhydratedContent, auth }) => {
     if (auth) {
       setShowContent(false);
       const password = prompt("Enter the secret key:");
-      if (password === "defaultPassword") {
+      if (password === "sample") {
         setShowContent(true);
       } else {
         setWrongPasswordEntered(true);

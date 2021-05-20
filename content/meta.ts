@@ -1,4 +1,6 @@
 export const slugs = [
-  "guide-one",
-  "guide-two",
+  'create-connection',
+  'create-telegram-connection',
+  'sample',
+  'faq',
 ];
