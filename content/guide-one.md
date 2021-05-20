@@ -27,9 +27,9 @@ ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor i
 ## Image Example
 
 Below is an example of how to format screenshots to be placed in the guide
-![](/template-guide/screenshots/image-one.png)
+![](/formsg-gsheet-guide/screenshots/image-one.png)
 *btw it's case sensitive*
-![](/template-guide/screenshots/Image-one.png)
+![](/formsg-gsheet-guide/screenshots/Image-one.png)
 
 ## URL Example
 

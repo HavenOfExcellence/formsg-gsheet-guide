@@ -1,6 +1,6 @@
-# TEMPLATE_TITLE Guide
+# FormSG-GoogleSheet Guide
 
-This is a guide page/app for the main application [TEMPLATE_TITLE](https://sub.mainProjectUrl/)
+This is a guide page/app for the main application [FormSG-GoogleSheet](https://sub.mainProjectUrl/)
 
 It is separated out from the main project to provide easier updating of the guide page for faster build times, easier to update etc.
 
@@ -41,9 +41,9 @@ Note the the "`---`" at the top and bottom of the metadata. The two required met
 
 The page will automatically build after the file is saved.
 
-You can look at the build logs from the [Actions Tab](https://github.com/HavenOfExcellence/template-guide/actions)
+You can look at the build logs from the [Actions Tab](https://github.com/HavenOfExcellence/formsg-gsheet-guide/actions)
 
-Once a green tick is shown, the site will be available at either at [TEMPLATE_TITLE/template-guide](template.mainProjectUrl/template-guide/) or [Repository Docs Page](https://havenofexcellence.github.io/template-guide/) (Both serve identical content)
+Once a green tick is shown, the site will be available at either at [FormSG-GoogleSheet/formsg-gsheet-guide](formsg-gsheet.mainProjectUrl/formsg-gsheet-guide/) or [Repository Docs Page](https://havenofexcellence.github.io/formsg-gsheet-guide/) (Both serve identical content)
 
 ## Advanced development
 

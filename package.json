@@ -1,7 +1,7 @@
 {
-  "name": "template-guide",
-  "homepage": "https://havenofexcellence.github.io/template-guide/",
-  "version": "0.1.0",
+  "name": "formsg-gsheet-guide",
+  "homepage": "https://havenofexcellence.github.io/formsg-gsheet-guide/",
+  "version": "0.1.1",
   "private": true,
   "scripts": {
     "dev": "next dev",
