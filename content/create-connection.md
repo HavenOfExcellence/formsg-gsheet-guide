@@ -5,9 +5,12 @@ description: Create a connection from FormSG to Google Sheet
 
 ## Step 0: Things you need
 
-[FormSG Account](https://form.gov.sg/#!/signin)
+- [FormSG Account](https://form.gov.sg/#!/signin)
+  - FormSG form with storage mode
+  - Secret Key of the form
 
-[Google Account](https://accounts.google.com/SignUp)
+- [Google Account](https://accounts.google.com/SignUp)
+  - Google Sheet (Will create later in the guide)
 
 ## Step 1: Go to the website
 

@@ -5,7 +5,10 @@ description: Create a connection to link FormSG to a Telegram Group
 
 ## Step 0: Things you need
 
-[Telegram Group](https://telegram.org/tour/groups): Preferably a group with message history ([supergroup](https://telegram.org/blog/supergroups)) so new members can see whats going on? but it will work with normal group
+- Telegram Account
+  - [Telegram Group](https://telegram.org/tour/groups): Preferably a group with message history ([supergroup](https://telegram.org/blog/supergroups)) so new members can see whats going on? but it will work with normal group
+- An existing Connection (from the previous guide)
+  - If you do not have an existing connection, you can create one following the previous guide, just that you need to come back to this guide to complete the Telegram section
 
 ## Step 1: Go to the website
 
