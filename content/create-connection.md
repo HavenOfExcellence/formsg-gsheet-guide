@@ -6,6 +6,7 @@ description: Create a connection from FormSG to Google Sheet
 ## Step 0: Things you need
 
 - [FormSG Account](https://form.gov.sg/#!/signin)
+
   - FormSG form with storage mode
   - Secret Key of the form
 
@@ -45,8 +46,11 @@ Create Google Sheet
 Share Google Sheet access with the service account email
 ![](/formsg-gsheet-guide/screenshots/connection-7-share-google-sheet.png)
 
-You will need to get the ([Google Sheet ID](https://developers.google.com/sheets/api/guides/concepts#spreadsheet_id)) from the URL
+You will need to get the ([Google Spreadsheet ID](https://developers.google.com/sheets/api/guides/concepts#spreadsheet_id)) from the URL
 You will also need the [FormSG Secret Key](https://guide.form.gov.sg/AdvancedGuide.html#what-is-a-secret-key)
+
+_There is also the option to enter ([sheetID](https://developers.google.com/sheets/api/guides/concepts)) so that you can select which sheet you want the Form Response to fill up_
+_Completely optional as it will just fill up your first sheet if you did not specify it_
 
 ## Step 5: Create connection (part 2++)
 

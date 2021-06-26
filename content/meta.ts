@@ -3,4 +3,5 @@ export const slugs = [
   'create-telegram-connection',
   'sample',
   'faq',
+  'changelog',
 ];
