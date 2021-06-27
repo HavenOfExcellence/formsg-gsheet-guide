@@ -9,6 +9,7 @@ description: Version Changes to the app
 - Add button to reset headers
 - Add SheetID to specify which Sheet to enter into. (Optional, Different from Spreadsheet ID)
 - Add analytics
+- Add duplicate headers warning (Only works after formSG writes to it then can detect duplicate headers)
 
 ## V1.1
 
