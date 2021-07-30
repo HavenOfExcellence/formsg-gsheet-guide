@@ -11,13 +11,17 @@ When you receive a FormSG Response, it will call my app at herokuapp(free), then
 
 No, because of storage mode, the responses will also be stored in FormSG itself
 
+## Webhook retries? What are they? Should I turn it on?
+
+You can view webhook retries on their [official documentation](https://go.gov.sg/form-webhook-retries). But in summary, in case my app is down or my app does not receive any the form submission, FormSG Side will retry and resend the submission. Limitation will be there might be duplicate entries. The app will record responseIDs to ensure duplicate entries will be discarded and not notify you/record down twice. responseIDs will be discarded after fourteen(14) days
+
 ## If I lose access to the Google Sheet, what do I do?
 
-Find the guy that made your Google Sheet, not me. Or you can edit the connection and point it to a new
+Find the guy that made your Google Sheet, not me. Or you can edit the connection and point it to a new google sheet
 
 ## I cannot find my Private Key, Help!
 
-I can't help you either, their ([guide](https://guide.form.gov.sg/AdvancedGuide.html#what-is-a-secret-key)) say cannot retrieve, have to reset
+I can't help you either, their ([guide](https://guide.form.gov.sg/AdvancedGuide.html#what-is-a-secret-key)) say cannot retrieve, have to make a new form
 
 ## I have a problem with my headers, what do?
 
@@ -37,7 +41,7 @@ So please don't have the same question name in formSG.
 
 ### Header modification
 
-That feature isn't done yet. Requested by Richard, he wants to change the order of the headers but I have yet to figure a simple way to do it because manipulating array like that isn't a good idea.
+That feature isn't 100% done yet. Requested by Richard, he wants to change the order of the headers but I have yet to figure a simple way to do it because manipulating array like that isn't a good idea.
 
 ## I can't get things to work properly
 

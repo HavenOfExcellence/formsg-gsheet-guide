@@ -91,6 +91,9 @@ Activate your form
 Once the form is activated, go to your form
 ![](/formsg-gsheet-guide/screenshots/connection-16-access-formsg.png)
 
+You might want to enable [webhook retries](https://go.gov.sg/form-webhook-retries) if you want to ensure that all responses will be sent 100%
+The app will handle the duplicate entries based on responseIDs (limitation of webhook retries is they might send duplicate entries)
+
 ## Step 8: Test Connection (FormSG Part)
 
 And make a test to ensure the link between FormSG and Google Sheet works
